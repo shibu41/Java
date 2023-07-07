@@ -1,0 +1,29 @@
+2023-03-28 12:07:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 12:13:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 12:17:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 12:19:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into PERSON (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 12:22:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 12:37:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 14:10:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-214]
+2023-03-28 14:21:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 14:22:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
+2023-03-28 14:22:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
+insert into Person (id, firstName, lastName) values (?, ?, ?) [42104-214]
